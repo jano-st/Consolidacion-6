@@ -1,0 +1,9 @@
+Librerias utilizadas.
+'express';
+'fs';
+'body-parser'
+
+npm install express body-parser fs
+npm install chai --save-dev
+
+correr con npm run test o npx mocha 
